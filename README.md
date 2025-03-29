@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning front-end more deep
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me with my email : shashank3692580@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: my harkate is very funny !
 
 <!---
 toofani627/toofani627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
