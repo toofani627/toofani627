@@ -10,6 +10,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: my harkate is very funny !
 
+## Languages and Tools i know: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
+
 <!---
 toofani627/toofani627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
