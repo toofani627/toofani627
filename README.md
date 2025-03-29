@@ -1,5 +1,6 @@
 # Hi 👋, Developers  
-**A passionate frontend/backend developer from India** 
+**I am a passionate frontend developer.** 
+**Currently learning front-end more deep and backend.** 
 
 - 👋 Hi, I’m Shashank
 - 👀 I’m interested in front-end Dev
