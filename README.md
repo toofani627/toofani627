@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_66a83568a63af4c10e6335b71a54201a/greensock-animation-platform.png" width="40" height="40" />
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_66a83568a63af4c10e6335b71a54201a/greensock-animation-platform.png" width="80" height="40" />
 </div>
 
 
