@@ -3,12 +3,12 @@
 **Currently learning front-end more deep and backend.** 
 
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in front-end Dev
-- 🌱 I’m currently learning front-end more deep
+- 👀 I’m interested in lot of things.
+- 🌱 I’m currently learning front-end, Backend, and Basics of Microsoft Azure.
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me with my email : shashank3692580@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: my harkate is very funny !
+- ⚡ Fun fact: Nothing:<
 
 ## Languages and Tools i know: 
 <div style="display: flex; align-items: center; gap: 10px;">
