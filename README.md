@@ -1,6 +1,6 @@
 # Hi 👋, Developers  
 **I am a passionate frontend developer.** 
-**Currently learning front-end more deep and backend.** 
+**Currently i am busy in my Academics.** 
 
 - 👋 Hi, I’m Shashank
 - 👀 I’m interested in lot of things.
